@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Show me the step to make ramen noodles.</pattern>
+    <template>
+      Lets see the steps to making ramen noodles.
+      <system>ruby makeramen.rb</system>
+    </template>
+  </category>
+<aiml>
